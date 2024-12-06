@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    margin: 0px;
+    padding: 0px ;
+    box-sizing: border-box;
+    font-family: "Manrope", sans-serif;
+}
+
+
+
+
+body {
+    background-color: hsla(240, 8%, 12%, 1);
+    color: white;
+}
+
+.name {
+    font-family: "Montagu Slab";
+}
+
+.btn {
+    background-color: hsla(40, 78%, 55%, 1);
+    padding: 10px 20px;
+    border-radius: 999px;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.info {
+   font-size: 18px;
+    color: hsla(228, 5%, 50%, 1);
+    
+}
+
+.title2 {
+  font-size: 20px;
+    font-weight: 600;
+    color: hsla(226, 5%, 70%, 1);
+}
+
+.des {
+  font-size: 14px;
+}
+
+.footer-links {
+    font-size: 18px;
+     color: hsla(240, 4%, 95%, 1);
+ }
+
